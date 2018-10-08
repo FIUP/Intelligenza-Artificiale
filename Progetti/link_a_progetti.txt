@@ -1,0 +1,3 @@
+Mettete qui il link al vostro progetto di Intelligenza Artificiale
+
+Mattia Bottaro, Mauro Carlin. A.A. 17/18, Prof. Maria Silvia Pini: https://github.com/BottCode/IQPuzzlerSolver
